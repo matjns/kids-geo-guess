@@ -1,0 +1,7 @@
+.DS_Store
+.build/
+.swiftpm/
+.swift-version
+build/
+dist/
+Package.resolved

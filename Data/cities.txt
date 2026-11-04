@@ -1,0 +1,63 @@
+# name|wiki title|country|tier|lat|lon|aliases (comma)|fact
+New York City|New York City|United States|easy|40.7580|-73.9855|new york,nyc,manhattan|Central Park, the big green rectangle in Manhattan, is bigger than the country of Monaco.
+Los Angeles|Los Angeles|United States|easy|34.0522|-118.2437|la,l.a.|Hollywood, where many famous movies are made, is a neighborhood of Los Angeles.
+Chicago|Chicago|United States|easy|41.8827|-87.6233|chi-town|Engineers reversed the flow of the Chicago River in 1900 so it would flow away from Lake Michigan.
+San Francisco|San Francisco|United States|easy|37.7946|-122.3999|sf,frisco|The Golden Gate Bridge is painted a color called International Orange.
+Seattle|Seattle|United States|easy|47.6062|-122.3321||The Space Needle was built for the 1962 World's Fair.
+Washington, D.C.|Washington, D.C.|United States|easy|38.8899|-77.0091|washington dc,dc,washington|The Washington Monument was the tallest structure in the world when it was finished in 1884.
+Las Vegas|Las Vegas|United States|medium|36.1147|-115.1728|vegas|Las Vegas is in the Mojave Desert and gets only about 4 inches of rain a year.
+Miami|Miami|United States|medium|25.7743|-80.1937||Miami is the only major US city founded by a woman, Julia Tuttle.
+Boston|Boston|United States|medium|42.3601|-71.0589||Boston Common, founded in 1634, is the oldest city park in the United States.
+New Orleans|New Orleans|United States|advanced|29.9511|-90.0715|nola|New Orleans sits in a bend of the Mississippi River, which is why it is called the Crescent City.
+Denver|Denver|United States|advanced|39.7392|-104.9903||Denver is called the Mile High City because it is about one mile above sea level.
+Honolulu|Honolulu|United States|medium|21.3069|-157.8583||Honolulu has the only royal palace in the United States, Iolani Palace.
+Toronto|Toronto|Canada|medium|43.6426|-79.3871||The CN Tower in Toronto was the world's tallest free-standing structure for over 30 years.
+Vancouver|Vancouver|Canada|medium|49.2827|-123.1207||Stanley Park in Vancouver is a giant forest right next to downtown.
+Montreal|Montreal|Canada|advanced|45.5017|-73.5673|montréal|Montreal is on an island in the St. Lawrence River.
+Mexico City|Mexico City|Mexico|medium|19.4326|-99.1332|ciudad de mexico,cdmx|Mexico City was built on top of the Aztec city of Tenochtitlan, which stood on a lake.
+Rio de Janeiro|Rio de Janeiro|Brazil|easy|-22.9068|-43.1729|rio|A giant statue called Christ the Redeemer stands on a mountain above Rio.
+Buenos Aires|Buenos Aires|Argentina|medium|-34.6037|-58.3816||Buenos Aires has one of the widest avenues in the world, the Avenida 9 de Julio.
+São Paulo|São Paulo|Brazil|advanced|-23.5505|-46.6333|sao paulo|São Paulo is the biggest city in South America.
+Lima|Lima|Peru|advanced|-12.0464|-77.0428||Lima sits on the Pacific coast and it almost never rains there.
+London|London|United Kingdom|easy|51.5007|-0.1246||The bell inside the clock tower at Parliament is called Big Ben.
+Paris|Paris|France|easy|48.8584|2.2945||The Eiffel Tower was built for a world's fair in 1889 and was meant to be temporary.
+Rome|Rome|Italy|easy|41.8902|12.4922|roma|The Colosseum in Rome could hold about 50,000 people almost 2,000 years ago.
+Venice|Venice|Italy|easy|45.4380|12.3358|venezia|Venice is built on more than 100 small islands linked by canals and bridges.
+Barcelona|Barcelona|Spain|medium|41.3851|2.1734||The Sagrada Família church in Barcelona has been under construction since 1882.
+Madrid|Madrid|Spain|advanced|40.4168|-3.7038||Madrid is near the middle of Spain and is one of the highest capitals in Europe.
+Amsterdam|Amsterdam|Netherlands|medium|52.3731|4.8926||Amsterdam has more bicycles than people.
+Berlin|Berlin|Germany|medium|52.5163|13.3777||A wall divided Berlin into two parts from 1961 to 1989.
+Athens|Athens|Greece|medium|37.9715|23.7257||The Parthenon on the Acropolis hill is about 2,400 years old.
+Istanbul|Istanbul|Turkey|medium|41.0082|28.9784|constantinople|Istanbul is in two continents, Europe and Asia, split by the Bosphorus strait.
+Moscow|Moscow|Russia|medium|55.7539|37.6208|moskva|The colorful onion domes of St. Basil's Cathedral stand at the edge of Red Square.
+Prague|Prague|Czech Republic|advanced|50.0875|14.4213|praha|Prague's astronomical clock was installed in 1410 and still works.
+Vienna|Vienna|Austria|advanced|48.2082|16.3738|wien|Vienna is famous for music: Mozart and Beethoven both lived there.
+Copenhagen|Copenhagen|Denmark|advanced|55.6761|12.5683|kobenhavn|Copenhagen has a statue of the Little Mermaid by the harbor.
+Stockholm|Stockholm|Sweden|advanced|59.3293|18.0686||Stockholm is built on 14 islands.
+Dublin|Dublin|Ireland|advanced|53.3498|-6.2603||The River Liffey runs right through the middle of Dublin.
+Edinburgh|Edinburgh|United Kingdom|advanced|55.9533|-3.1883||Edinburgh Castle sits on top of an old volcano.
+Lisbon|Lisbon|Portugal|advanced|38.7223|-9.1393|lisboa|Lisbon is built on seven hills next to the Tagus River.
+Reykjavik|Reykjavík|Iceland|advanced|64.1466|-21.9426|reykjavík|Reykjavík is the northernmost capital of a country in the world.
+Cairo|Cairo|Egypt|easy|30.0444|31.2357||The Nile, one of the longest rivers in the world, flows right through Cairo.
+Cape Town|Cape Town|South Africa|medium|-33.9249|18.4241||Table Mountain, with its flat top, rises right behind Cape Town.
+Nairobi|Nairobi|Kenya|advanced|-1.2864|36.8172||Nairobi has a national park with lions and giraffes right next to the city.
+Marrakesh|Marrakesh|Morocco|advanced|31.6295|-7.9811|marrakech|Marrakesh is called the Red City because of its red sandstone walls.
+Dubai|Dubai|United Arab Emirates|easy|25.1972|55.2744||The Burj Khalifa in Dubai is the tallest building in the world.
+Tokyo|Tokyo|Japan|easy|35.6595|139.7005||The Shibuya Crossing in Tokyo is one of the busiest street crossings in the world.
+Kyoto|Kyoto|Japan|advanced|35.0116|135.7681||Kyoto was the capital of Japan for more than 1,000 years.
+Beijing|Beijing|China|medium|39.9087|116.3975|peking|The Forbidden City in Beijing has about 980 buildings.
+Shanghai|Shanghai|China|medium|31.2397|121.4998||Shanghai has one of the busiest container ports in the world.
+Hong Kong|Hong Kong|China|medium|22.2855|114.1577|hk|Hong Kong has more skyscrapers than almost any other city in the world.
+Seoul|Seoul|South Korea|advanced|37.5665|126.9780||The Han River flows through the middle of Seoul.
+Singapore|Singapore|Singapore|medium|1.2834|103.8607||Singapore is a city and a whole country at the same time.
+Bangkok|Bangkok|Thailand|advanced|13.7563|100.5018||Bangkok's full ceremonial name is one of the longest place names in the world.
+Mumbai|Mumbai|India|advanced|18.9220|72.8347|bombay|The Gateway of India arch in Mumbai faces the Arabian Sea.
+New Delhi|New Delhi|India|advanced|28.6129|77.2295|delhi|India Gate in New Delhi is a war memorial arch, a bit like the Arc de Triomphe in Paris.
+Sydney|Sydney|Australia|easy|-33.8568|151.2153||The roof of the Sydney Opera House looks like sails, and it is covered in over a million tiles.
+Melbourne|Melbourne|Australia|advanced|-37.8136|144.9631||Melbourne has one of the largest tram networks in the world.
+Auckland|Auckland|New Zealand|advanced|-36.8485|174.7633||Auckland is built on a field of about 50 old volcanoes.
+Kuala Lumpur|Kuala Lumpur|Malaysia|advanced|3.1579|101.7116|kl|The twin Petronas Towers in Kuala Lumpur were the tallest buildings in the world from 1998 to 2004.
+Havana|Havana|Cuba|advanced|23.1136|-82.3666|la habana|Havana is famous for its colorful old American cars from the 1950s.
+Panama City|Panama City|Panama|advanced|8.9824|-79.5199|panama|Panama City is near the Pacific end of the Panama Canal.
+Orlando|Orlando, Florida|United States|medium|28.5384|-81.3789||Orlando has a big lake downtown called Lake Eola, with a fountain in the middle.
+Philadelphia|Philadelphia|United States|advanced|39.9526|-75.1652|philly|The Liberty Bell and Independence Hall are in Philadelphia.

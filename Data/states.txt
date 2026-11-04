@@ -1,0 +1,51 @@
+# name|tier|capital|nickname
+Alabama|advanced|Montgomery|the Yellowhammer State
+Alaska|easy|Juneau|the Last Frontier
+Arizona|medium|Phoenix|the Grand Canyon State
+Arkansas|advanced|Little Rock|the Natural State
+California|easy|Sacramento|the Golden State
+Colorado|medium|Denver|the Centennial State
+Connecticut|advanced|Hartford|the Constitution State
+Delaware|advanced|Dover|the First State
+Florida|easy|Tallahassee|the Sunshine State
+Georgia|medium|Atlanta|the Peach State
+Hawaii|easy|Honolulu|the Aloha State
+Idaho|medium|Boise|the Gem State
+Illinois|medium|Springfield|the Prairie State
+Indiana|advanced|Indianapolis|the Hoosier State
+Iowa|advanced|Des Moines|the Hawkeye State
+Kansas|advanced|Topeka|the Sunflower State
+Kentucky|advanced|Frankfort|the Bluegrass State
+Louisiana|medium|Baton Rouge|the Pelican State
+Maine|medium|Augusta|the Pine Tree State
+Maryland|advanced|Annapolis|the Old Line State
+Massachusetts|medium|Boston|the Bay State
+Michigan|easy|Lansing|the Great Lakes State
+Minnesota|medium|Saint Paul|the Land of 10,000 Lakes
+Mississippi|advanced|Jackson|the Magnolia State
+Missouri|advanced|Jefferson City|the Show-Me State
+Montana|medium|Helena|the Treasure State
+Nebraska|advanced|Lincoln|the Cornhusker State
+Nevada|medium|Carson City|the Silver State
+New Hampshire|advanced|Concord|the Granite State
+New Jersey|advanced|Trenton|the Garden State
+New Mexico|advanced|Santa Fe|the Land of Enchantment
+New York|easy|Albany|the Empire State
+North Carolina|medium|Raleigh|the Tar Heel State
+North Dakota|advanced|Bismarck|the Peace Garden State
+Ohio|medium|Columbus|the Buckeye State
+Oklahoma|easy|Oklahoma City|the Sooner State
+Oregon|medium|Salem|the Beaver State
+Pennsylvania|medium|Harrisburg|the Keystone State
+Rhode Island|advanced|Providence|the Ocean State
+South Carolina|advanced|Columbia|the Palmetto State
+South Dakota|advanced|Pierre|the Mount Rushmore State
+Tennessee|medium|Nashville|the Volunteer State
+Texas|easy|Austin|the Lone Star State
+Utah|medium|Salt Lake City|the Beehive State
+Vermont|advanced|Montpelier|the Green Mountain State
+Virginia|medium|Richmond|the Old Dominion
+Washington|easy|Olympia|the Evergreen State
+West Virginia|advanced|Charleston|the Mountain State
+Wisconsin|advanced|Madison|the Badger State
+Wyoming|advanced|Cheyenne|the Equality State

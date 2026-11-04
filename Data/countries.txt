@@ -1,0 +1,114 @@
+# name|NE ADMIN|tier|aliases|fact
+United States|United States of America|easy|usa,us,united states of america,america,the united states|The United States has 50 states. This outline shows the 48 that touch each other.
+Canada|Canada|easy||Canada has more lakes than any other country in the world.
+Mexico|Mexico|easy||Mexico gave the world chocolate, chili peppers, and corn.
+Brazil|Brazil|easy|brasil|Most of the Amazon rainforest, the biggest rainforest on Earth, is in Brazil.
+Argentina|Argentina|easy||Aconcagua in Argentina is the tallest mountain outside of Asia.
+Chile|Chile|easy||Chile is about 4,300 km long but on average only about 175 km wide.
+United Kingdom|United Kingdom|easy|uk,britain,great britain,the united kingdom|The United Kingdom is made of England, Scotland, Wales, and Northern Ireland.
+France|France|easy||France is often called the hexagon because its shape has six sides.
+Spain|Spain|easy|españa,espana|Spain shares the Iberian Peninsula with Portugal.
+Italy|Italy|easy|italia|Italy is shaped like a boot kicking a ball, which is the island of Sicily.
+Germany|Germany|easy|deutschland|Germany has more than 20,000 castles.
+Russia|Russia|easy|russian federation|Russia is the biggest country in the world and has 11 time zones.
+China|China|easy||The Great Wall of China is thousands of kilometers long.
+India|India|easy||India has more people than any other country.
+Japan|Japan|easy|nippon,nihon|Japan is made up of thousands of islands. The four biggest are Honshu, Hokkaido, Kyushu, and Shikoku.
+Australia|Australia|easy||Australia is a country and a whole continent. Kangaroos and koalas live there.
+Egypt|Egypt|easy||The Great Pyramid of Giza in Egypt is about 4,500 years old.
+South Africa|South Africa|easy||South Africa has three capital cities.
+Norway|Norway|easy|norge|Norway's coast has long, deep sea inlets called fjords.
+Sweden|Sweden|easy|sverige|Sweden has about 100,000 lakes.
+Ireland|Ireland|easy|eire,éire|Ireland is called the Emerald Isle because it is so green.
+Iceland|Iceland|easy||Iceland has volcanoes, glaciers, and hot springs on the same island.
+Madagascar|Madagascar|easy||Almost all of the world's wild lemurs live on Madagascar.
+New Zealand|New Zealand|easy|aotearoa|New Zealand is made of two main islands, the North Island and the South Island.
+Greece|Greece|easy|hellas|Greece has thousands of islands, and the first Olympic Games were held there.
+Turkey|Turkey|easy|turkiye,türkiye|Turkey is in two continents: a small part is in Europe and most is in Asia.
+Saudi Arabia|Saudi Arabia|easy|saudi|Saudi Arabia has no permanent rivers.
+Peru|Peru|easy|perú|The ancient city of Machu Picchu sits high in the mountains of Peru.
+Cuba|Cuba|easy||Cuba is the largest island in the Caribbean.
+Indonesia|Indonesia|easy||Indonesia is made of more than 17,000 islands.
+Portugal|Portugal|easy||Portugal is the westernmost country of mainland Europe.
+Colombia|Colombia|medium||Colombia is the only South American country with coasts on both the Pacific Ocean and the Caribbean Sea.
+Venezuela|Venezuela|medium||Angel Falls in Venezuela is the tallest waterfall in the world.
+Ecuador|Ecuador|medium||Ecuador is named after the equator, which runs through it.
+Bolivia|Bolivia|medium||Bolivia has the biggest salt flat in the world, Salar de Uyuni.
+Paraguay|Paraguay|medium||Paraguay is one of only two landlocked countries in South America.
+Uruguay|Uruguay|medium||Uruguay won the very first soccer World Cup in 1930.
+Finland|Finland|medium|suomi|Finland is sometimes called the land of a thousand lakes, but it has many more than that.
+Poland|Poland|medium|polska|The scientist Marie Curie was born in Warsaw, Poland.
+Ukraine|Ukraine|medium||Ukraine is the biggest country entirely in Europe.
+Netherlands|Netherlands|medium|holland,the netherlands|About a quarter of the Netherlands is below sea level.
+Belgium|Belgium|medium||Belgium is famous for chocolate and waffles.
+Switzerland|Switzerland|medium||Switzerland has four official languages.
+Austria|Austria|medium||Most of Austria is covered by the Alps mountains.
+Denmark|Denmark|medium||LEGO bricks were invented in Denmark.
+Morocco|Morocco|medium||Morocco has coasts on both the Atlantic Ocean and the Mediterranean Sea.
+Algeria|Algeria|medium||Algeria is the biggest country in Africa.
+Nigeria|Nigeria|medium||Nigeria has more people than any other country in Africa.
+Kenya|Kenya|medium||The equator runs right through Kenya.
+Ethiopia|Ethiopia|medium||Coffee comes originally from Ethiopia.
+Somalia|Somalia|medium||Somalia has the longest coastline of any country on mainland Africa.
+Iran|Iran|medium|persia|Iran used to be called Persia.
+Iraq|Iraq|medium||The Tigris and Euphrates rivers both flow through Iraq.
+Pakistan|Pakistan|medium||K2, the second-highest mountain on Earth, is on the border of Pakistan and China.
+Afghanistan|Afghanistan|medium||Afghanistan is a landlocked country with high mountains called the Hindu Kush.
+Kazakhstan|Kazakhstan|medium||Kazakhstan is the biggest landlocked country in the world.
+Mongolia|Mongolia|medium||Mongolia has more horses than people.
+Thailand|Thailand|medium||Thailand used to be called Siam.
+Vietnam|Vietnam|medium|viet nam|Vietnam is long and thin, shaped a bit like the letter S.
+South Korea|South Korea|medium|korea,republic of korea|South Korea is on a peninsula, with sea on three sides.
+Philippines|Philippines|medium|the philippines|The Philippines is made of more than 7,000 islands.
+Malaysia|Malaysia|medium||Malaysia is in two parts, split by the South China Sea.
+Sri Lanka|Sri Lanka|medium|ceylon|Sri Lanka is an island shaped like a teardrop, south of India.
+Nepal|Nepal|medium||Mount Everest, the tallest mountain on Earth, is on Nepal's border.
+Jamaica|Jamaica|medium||Jamaica is an island in the Caribbean Sea.
+Panama|Panama|medium||The Panama Canal lets ships cross between the Atlantic and Pacific Oceans.
+Costa Rica|Costa Rica|medium||Costa Rica has no army.
+Libya|Libya|medium||Most of Libya is covered by the Sahara Desert.
+Sudan|Sudan|medium||Sudan has more ancient pyramids than Egypt.
+Democratic Republic of the Congo|Democratic Republic of the Congo|medium|congo,drc,dr congo,the congo|The Congo River is one of the deepest rivers in the world.
+Tanzania|United Republic of Tanzania|medium||Mount Kilimanjaro, the tallest mountain in Africa, is in Tanzania.
+Czechia|Czechia|advanced|czech republic|Czechia is a landlocked country in the middle of Europe.
+Hungary|Hungary|advanced|magyarorszag|The Rubik's Cube was invented in Hungary.
+Romania|Romania|advanced||The Carpathian Mountains curve through Romania like a big hook.
+Bulgaria|Bulgaria|advanced||Bulgaria is on the Black Sea.
+Croatia|Croatia|advanced|hrvatska|Croatia's coast on the Adriatic Sea has more than 1,000 islands.
+Serbia|Republic of Serbia|advanced||The Danube River flows through Serbia's capital, Belgrade.
+Belarus|Belarus|advanced||Belarus is a landlocked country in Eastern Europe with many forests and lakes.
+Lithuania|Lithuania|advanced||Lithuania is the largest of the three Baltic countries.
+Latvia|Latvia|advanced||Latvia is one of the three Baltic countries, between Estonia and Lithuania.
+Estonia|Estonia|advanced||Estonia has more than 2,000 islands in the Baltic Sea.
+Slovakia|Slovakia|advanced||Slovakia and Czechia used to be one country called Czechoslovakia.
+Albania|Albania|advanced||Albania is on the coast across the sea from the heel of Italy.
+Tunisia|Tunisia|advanced||Tunisia is the northernmost country in Africa.
+Ghana|Ghana|advanced||Ghana is one of the biggest cocoa growers in the world.
+Ivory Coast|Ivory Coast|advanced|cote d'ivoire,côte d'ivoire|Ivory Coast grows more cocoa beans than any other country.
+Senegal|Senegal|advanced||Senegal is the westernmost country on mainland Africa.
+Mali|Mali|advanced||The old city of Timbuktu is in Mali.
+Niger|Niger|advanced||Niger is named after the Niger River.
+Chad|Chad|advanced||Chad is named after Lake Chad.
+Angola|Angola|advanced||Angola is on the Atlantic coast of southern Africa.
+Namibia|Namibia|advanced||The Namib, one of the oldest deserts in the world, is in Namibia.
+Botswana|Botswana|advanced||Botswana has more elephants than any other country.
+Zimbabwe|Zimbabwe|advanced||Victoria Falls is on the border of Zimbabwe and Zambia.
+Zambia|Zambia|advanced||Zambia is named after the Zambezi River.
+Mozambique|Mozambique|advanced||Mozambique has a long coast on the Indian Ocean.
+Uganda|Uganda|advanced||Uganda is home to about half of the world's mountain gorillas.
+Cameroon|Cameroon|advanced||Cameroon is sometimes called "Africa in miniature" because it has deserts, mountains, beaches, and rainforests.
+Syria|Syria|advanced||Damascus in Syria is one of the oldest cities in the world.
+Jordan|Jordan|advanced||The ancient city of Petra, carved into rock, is in Jordan.
+Oman|Oman|advanced||Oman is on the southeastern tip of the Arabian Peninsula.
+Yemen|Yemen|advanced||Yemen is in the southwestern corner of the Arabian Peninsula.
+Uzbekistan|Uzbekistan|advanced||Uzbekistan is one of only two countries in the world surrounded entirely by landlocked countries.
+Myanmar|Myanmar|advanced|burma|Myanmar used to be called Burma.
+Cambodia|Cambodia|advanced||Angkor Wat in Cambodia is the largest religious monument in the world.
+Laos|Laos|advanced||Laos is the only landlocked country in Southeast Asia.
+Bangladesh|Bangladesh|advanced||Most of the world's largest mangrove forest, the Sundarbans, is in Bangladesh.
+Papua New Guinea|Papua New Guinea|advanced|png|More than 800 languages are spoken in Papua New Guinea.
+Guatemala|Guatemala|advanced||Guatemala has many ancient Maya cities, such as Tikal.
+Honduras|Honduras|advanced||Honduras is in Central America, with coasts on the Caribbean Sea and the Pacific Ocean.
+Nicaragua|Nicaragua|advanced||Nicaragua is the largest country in Central America.
+Dominican Republic|Dominican Republic|advanced||The Dominican Republic shares the island of Hispaniola with Haiti.
+Guyana|Guyana|advanced||Guyana is the only country in South America where English is the official language.

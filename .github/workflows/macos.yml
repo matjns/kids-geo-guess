@@ -1,0 +1,80 @@
+name: macOS
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Release tag to publish when this run is not already a v* tag"
+        required: false
+        default: "v1.0.0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: macos-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build and test
+    runs-on: macos-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Swift version
+        run: swift --version
+
+      - name: Test question logic
+        run: ./build.sh test
+
+      - name: Build universal app
+        run: ./build.sh
+
+      - name: Upload the zip
+        uses: actions/upload-artifact@v4
+        with:
+          name: GeoGuess-mac-universal
+          path: |
+            dist/GeoGuess-mac-universal.zip
+            dist/README-mac.txt
+          if-no-files-found: error
+
+      - name: Publish GitHub Release
+        if: startsWith(github.ref, 'refs/tags/v') || github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ "${GITHUB_EVENT_NAME}" = "workflow_dispatch" ] && [ "${GITHUB_REF_TYPE}" != "tag" ]; then
+            TAG="${{ inputs.tag }}"
+          else
+            TAG="${GITHUB_REF_NAME}"
+          fi
+          case "$TAG" in
+            v*) ;;
+            *)
+              echo "Release tag must start with v (got: $TAG)"
+              exit 1
+              ;;
+          esac
+          NOTES="Geo Guess ${TAG} for macOS 14 or later (Apple silicon and Intel).
+
+          The zip is not signed with an Apple Developer ID. macOS will warn the first time you open it. Read README-mac.txt for the Open Anyway steps.
+
+          Quit with Command-Q or by closing the window. Progress stays on this Mac."
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" \
+              dist/GeoGuess-mac-universal.zip \
+              dist/README-mac.txt \
+              --clobber
+          else
+            gh release create "$TAG" \
+              dist/GeoGuess-mac-universal.zip \
+              dist/README-mac.txt \
+              --title "Geo Guess ${TAG}" \
+              --notes "$NOTES"
+          fi
