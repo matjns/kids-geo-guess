@@ -22,9 +22,6 @@ Typed answers forgive small typos and know common other names (USA, UK, Holland,
 
 Shape rounds work fully offline. When the Mac has no internet, the app plays shape rounds only, and if the internet drops in the middle of a satellite round it quietly skips to a shape. Nothing is lost.
 
-## Grown-ups screen
-
-Press and hold the **Geo Guess** title on the home screen for 3 seconds, then answer a multiplication question. From there you can set the level, reset progress, and turn satellite city rounds off.
 
 ## Data and credits
 

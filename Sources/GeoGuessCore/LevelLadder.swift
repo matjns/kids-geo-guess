@@ -42,7 +42,7 @@ public struct LevelLadder: Codable, Equatable, Sendable {
     public private(set) var tier: Tier
     /// Recent answers at the current tier, oldest first, at most `max(window, demoteWindow)`.
     public private(set) var recent: [Bool]
-    /// The highest tier ever reached (for stars and the parent screen).
+    /// The highest tier ever reached (for stars).
     public private(set) var best: Tier
 
     public init(tier: Tier = .easy) {
@@ -85,8 +85,8 @@ public struct LevelLadder: Codable, Equatable, Sendable {
         return nil
     }
 
-    /// Parent-only override from the hidden grown-ups screen.
-    public mutating func parentSet(_ newTier: Tier) {
+    /// Test helper: put the ladder on a given tier.
+    internal mutating func setTierForTesting(_ newTier: Tier) {
         tier = newTier
         best = max(best, newTier)
         recent = []

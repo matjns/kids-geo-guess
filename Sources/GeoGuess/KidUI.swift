@@ -173,53 +173,6 @@ struct StepDownBanner: View {
     }
 }
 
-/// A grown-ups-only check: a multiplication a young child is unlikely to know.
-struct ParentGate: View {
-    var onPass: () -> Void
-    var onCancel: () -> Void
-
-    @State private var a = Int.random(in: 12...19)
-    @State private var b = Int.random(in: 6...9)
-    @State private var entry = ""
-    @State private var wrong = false
-
-    var body: some View {
-        VStack(spacing: 18) {
-            Text("Grown-ups only")
-                .font(.system(size: 28, weight: .bold, design: .rounded))
-            Text("What is \(a) × \(b)?")
-                .font(.system(size: 22, weight: .medium, design: .rounded))
-            TextField("Answer", text: $entry)
-                .textFieldStyle(.roundedBorder)
-                .font(.system(size: 22))
-                .frame(width: 160)
-                .onSubmit(check)
-            if wrong {
-                Text("That's not it.").foregroundStyle(Palette.coral)
-            }
-            HStack {
-                Button("Cancel", action: onCancel)
-                    .keyboardShortcut(.cancelAction)
-                Button("Continue", action: check)
-                    .keyboardShortcut(.defaultAction)
-            }
-        }
-        .padding(32)
-        .frame(width: 380)
-    }
-
-    private func check() {
-        if Int(entry.trimmingCharacters(in: .whitespaces)) == a * b {
-            onPass()
-        } else {
-            wrong = true
-            entry = ""
-            a = Int.random(in: 12...19)
-            b = Int.random(in: 6...9)
-        }
-    }
-}
-
 enum SupportFolder {
     /// ~/Library/Application Support/<name> (inside the sandbox container when sandboxed).
     static func url(named name: String) -> URL {

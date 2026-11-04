@@ -185,7 +185,7 @@ final class SessionTests: XCTestCase {
 
     func testStrugglingStepsDownGently() {
         var p = GeoProgress()
-        p.ladder.parentSet(.medium)
+        p.ladder.setTierForTesting(.medium)
         var s = GeoSession(category: .countries, progress: p, generator: RoundGenerator(seed: 7))
         var change: LevelChange?
         for i in 0..<10 {
@@ -197,7 +197,7 @@ final class SessionTests: XCTestCase {
 
     func testTypeInMatchingInSession() {
         var p = GeoProgress()
-        p.ladder.parentSet(.advanced)
+        p.ladder.setTierForTesting(.advanced)
         var s = GeoSession(category: .countries, progress: p, generator: RoundGenerator(seed: 8))
         let q = s.next(online: false)
         XCTAssertEqual(q.style, .typeIn)
@@ -211,7 +211,7 @@ final class SessionTests: XCTestCase {
         var p = GeoProgress()
         p.stars = 12
         p.satelliteRoundsOn = false
-        p.ladder.parentSet(.medium)
+        p.ladder.setTierForTesting(.medium)
         try store.save(p)
         XCTAssertEqual(store.load(), p)
     }

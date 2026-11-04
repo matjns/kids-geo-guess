@@ -25,8 +25,6 @@ final class GeoModel: ObservableObject {
     @Published var showConfetti = false
     @Published var levelUp: Tier?
     @Published var steppedDown: Tier?
-    @Published var showParentGate = false
-    @Published var showParentScreen = false
     @Published private(set) var isOnline = true
     @Published private(set) var offlineNote = false
 
@@ -119,25 +117,6 @@ final class GeoModel: ObservableObject {
     func persist() {
         if let s = session { progress = s.progress }
         try? store.save(progress)
-    }
-
-    // MARK: Grown-ups screen
-
-    func parentSetLevel(_ tier: Tier) {
-        progress.ladder.parentSet(tier)
-        persist()
-    }
-
-    func parentSetSatellite(_ on: Bool) {
-        progress.satelliteRoundsOn = on
-        persist()
-    }
-
-    func parentReset() {
-        let keepSatellite = progress.satelliteRoundsOn
-        progress = .fresh
-        progress.satelliteRoundsOn = keepSatellite
-        persist()
     }
 }
 #endif
